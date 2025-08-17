@@ -4,7 +4,7 @@
 
 ### E-posta Desteği
 
-**Adres:** support@fuelify.com
+**Adres:** support@fuelifypro.com
 **Yanıt Süresi:** 24-48 saat
 **Dil:** Türkçe
 

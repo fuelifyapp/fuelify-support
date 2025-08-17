@@ -4,8 +4,8 @@
 
 ### E-posta
 
-**Destek:** support@fuelify.com
-**Genel:** info@fuelify.com
+**Destek:** support@fuelifypro.com
+**Genel:** info@fuelifypro.com
 **Yanıt Süresi:** 24-48 saat
 
 ### GitHub

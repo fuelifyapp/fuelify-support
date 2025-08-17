@@ -4,7 +4,7 @@
 
 ## 📞 İletişim
 
-- **E-posta:** support@fuelify.com
+- **E-posta:** support@fuelifypro.com
 - **GitHub Issues:** [Sorun Bildir](https://github.com/berkan/fuelify-support/issues)
 - **Uygulama:** [App Store'da İndir](https://apps.apple.com/app/fuelify)
 
@@ -27,7 +27,7 @@
 
 1. [Sık Sorulan Sorular](faq.md) bölümünü kontrol edin
 2. [Destek](support.md) sayfasını ziyaret edin
-3. E-posta ile iletişime geçin: support@fuelify.com
+3. E-posta ile iletişime geçin: support@fuelifypro.com
 4. GitHub Issues üzerinden sorun bildirin
 
 ---

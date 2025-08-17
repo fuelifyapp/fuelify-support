@@ -79,7 +79,7 @@ App Store politikalarına göre iade işlemleri yapılır.
 ### Daha fazla yardım için nereye başvurabilirim?
 
 - [Destek sayfası](support.md)
-- E-posta: support@fuelify.com
+- E-posta: support@fuelifypro.com
 - [GitHub Issues](https://github.com/berkan/fuelify-support/issues)
 
 ---

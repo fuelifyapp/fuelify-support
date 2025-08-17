@@ -62,7 +62,7 @@ Verilerinizi üçüncü taraflarla paylaşmayız, ancak:
 
 ## 8. İletişim
 
-Gizlilik sorularınız için: support@fuelify.com
+Gizlilik sorularınız için: support@fuelifypro.com
 
 ---
 

@@ -37,7 +37,7 @@ Bu şartları önceden haber vermeksizin değiştirme hakkını saklı tutarız.
 
 ## 8. İletişim
 
-Sorularınız için: support@fuelify.com
+Sorularınız için: support@fuelifypro.com
 
 ---
 
