@@ -1,1 +1,3 @@
+# IAB Tech Lab app-ads.txt file for Fuelify Pro (iOS)
+# Format: <domain>, <publisher_id>, <relationship>, <certification_authority_id>
 google.com, pub-5839379139011780, DIRECT, f08c47fec0942fa0
